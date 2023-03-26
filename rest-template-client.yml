@@ -1,7 +1,5 @@
 server:
-  port: 8081
-company:
-  name: 'nuenvo'
+  port: 8082
 eureka:
   client:
     service-url:
